@@ -6,7 +6,7 @@ By making this data public, I hope to:
 
 - Make a small contribution to research on genetics and genomics
 - Encourage others to contribute their genetic data to research, as I strongly believe in the power of crowdsourced research and development
-- Leave a long lasting digital copy of "myself" :)
+- Leave a long lasting digital copy of my source code!
 
 ## Contents
 
